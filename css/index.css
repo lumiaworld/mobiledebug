@@ -1,0 +1,19 @@
+* {
+    background-color: black;
+    font-family: 'Segoe UI Light';
+    text-decoration: none;
+    color: white;
+}
+
+.punkt {
+    font-family: 'Segoe UI Light';
+    font-size: 30;
+}
+
+.header {
+    font-size: 30;
+}
+
+.text-button {
+    font-size: 20;
+}
